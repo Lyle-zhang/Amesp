@@ -6,7 +6,7 @@ end program main
 !=======================================================================
 subroutine Amesp    
      !Amesp : Amateurish molecular electronic structure program.(for linux)
-     !Copyright (C) 2016 ; Author: Warm_Cloud <3355196386@qq.com>
+     !Copyright (C) 2016 ; Author: (YingFeng Zhang)Warm_Cloud <3355196386@qq.com>
      !Begin from 2016-03-09. 
 !-----------------------------------------------------------------------
 !
