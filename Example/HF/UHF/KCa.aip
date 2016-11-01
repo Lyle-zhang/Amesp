@@ -1,0 +1,6 @@
+2  0  2
+sto-3g  uhf none out=1
+maxcyc= 128 conver= 8 diis=on guess=atden
+
+ K          -1.40035910    0.43985637    0.00000000
+ Ca          1.66427291    0.06283662    0.00000000
