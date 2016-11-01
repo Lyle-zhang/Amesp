@@ -1,7 +1,7 @@
 # Amesp
 ============================================================================
    *    Amesp : Amateurish molecular electronic structure program.       * 
-   *    Copyright (C) 2016 ; Author: Warm_Cloud <3355196386@qq.com>      *
+   *    Copyright (C) 2016 ; Author: YingFeng Zhang <3355196386@qq.com>  *
    *    Begin from 2016-03-09 .                                          *
 ============================================================================
 
