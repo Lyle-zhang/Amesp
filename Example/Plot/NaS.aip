@@ -1,0 +1,7 @@
+2 0 2
+sto-3g hf sden out=2
+maxcyc= 128 conver= 8 diis=on guess=core
+
+ Na         -1.43626575    1.08617593    0.00000000
+ S          -2.43626575    1.08617593    0.00000000
+
