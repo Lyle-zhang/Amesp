@@ -1,0 +1,6 @@
+2  -1  2
+sto-3g b3pw91 none out=2
+maxcyc= 128 conver= 7 diis=on guess=atden
+
+ F          -0.55655298    0.02692998    0.00000000
+ H          -1.43655298    0.02692998    0.00000000
